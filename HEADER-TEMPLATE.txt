@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
- * No.        :
+ * Student ID : 1690704414
+ * Name       :ธนบดี ธัญญาภิวัฒนา
+ * Section    :129D
+ * No.        :-
  * Course     : GI113 Computer Programming (GI)
  */
