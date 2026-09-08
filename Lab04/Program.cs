@@ -1,4 +1,11 @@
-﻿namespace Lab04
+
+/*
+ * Student ID : 1690704414
+ * Name       :ธนบดี ธัญญาภิวัฒนา
+ * Section    :129D
+ * No.        :-
+ * Course     : GI113 Computer Programming (GI)
+ */namespace Lab04
 {
     internal class Program
     {
